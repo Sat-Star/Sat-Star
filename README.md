@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Satyadeep Mishra</h1>
-<h3 align="center">A passionate programmer</h3>
+<h3 align="center">A pseudoprogrammer</h3>
 <img align="right" alt="coding" width="400" src="https://animesher.com/orig/0/19/197/1978/animesher.com_code-computer-html-197855.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sat-star&label=Profile%20views&color=0e75b6&style=flat" alt="sat-star" /> </p>
 
 <p align="left"> <a href="https://twitter.com/satyadeep_" target="blank"><img src="https://img.shields.io/twitter/follow/satyadeep_?logo=twitter&style=for-the-badge" alt="satyadeep_" /></a> </p>
 
-- 🌱 I’m currently learning **MERN, Automation**
+- 🌱 I’m currently learning **Angular, Java, .NET**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
